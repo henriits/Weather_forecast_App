@@ -1,0 +1,1 @@
+# This is a weather forecast app, that shows weather for 1-5 days, with 3 hour differences.
